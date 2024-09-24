@@ -1,4 +1,4 @@
-Hi there :neckbeard: My name's Bijo Prasad. I often go by the name hikigaya, you can call me just hiki, whatever you want.
+Hi there :neckbeard: My name's Bijo Prasad. 
 
 ![snakegraph](https://github.com/hikigaya007/hikigaya007/blob/output/github-contribution-grid-snake-dark.svg)
 
